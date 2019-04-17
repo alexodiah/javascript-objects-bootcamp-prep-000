@@ -1,5 +1,6 @@
-var playlist = {[playlist]: 'I love you'};
+var playlist = {[playlist]: songTitle};
 
-function updatePlaylist(playlist, artistName, songTitle)
-  playlist.Slowdive = songTitle
-}
+// function updatePlaylist(playlist, artistName, songTitle)
+// playlist = {
+//   atristName:
+// }
