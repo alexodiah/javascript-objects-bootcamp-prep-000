@@ -6,3 +6,4 @@ return playlist;
 }
 
 function removeFromPlaylist(playlist, artistName)
+delete
